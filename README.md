@@ -1,14 +1,4 @@
 # Parameter_Optimization_SVM
 
-Sample	Best Accuracy	Best Kernel	Best Nu
-1	0.828166667	RBF	0.5
-2	0.819166667	RBF	0.5
-3	0.827333333	RBF	0.5
-4	0.825	RBF	0.5
-5	0.825166667	RBF	0.5
-6	0.821833333	RBF	0.5
-7	0.827166667	RBF	0.5
-8	0.826666667	RBF	0.5
-9	0.821	RBF	0.5
-10	0.827833333	RBF	0.5
-![image](https://user-images.githubusercontent.com/101132056/233206286-15da2900-2efe-4264-9e1f-d50741c74e95.png)
+
+![image](https://user-images.githubusercontent.com/101132056/233206631-878029ec-9e91-4b80-8496-6f7740336285.png)
